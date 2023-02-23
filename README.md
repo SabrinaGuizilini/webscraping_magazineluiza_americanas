@@ -1,0 +1,2 @@
+# Webscraping Magazine Luiza e Americanas
+Projeto de Webscraping para coletar e comparar informações de produtos dos sites Magazine Luiza e Americanas. Utiliza os módulos Scrapy, Pandas e Plotly. Sua entrada é o nome de um produto e gera como saída duas planilhas com informações do produto pesquisado em ambos os sites, um relatório geral e gráficos comparativos. Para utilizar basta executar o arquivo runner.py.
